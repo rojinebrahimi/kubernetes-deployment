@@ -184,23 +184,3 @@ else
 fi
 
 echo "\nPre-requisites Installation And Configuration Completed."
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
